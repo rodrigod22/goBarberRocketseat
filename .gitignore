@@ -1,3 +1,5 @@
 /backend/node_modules
 /backend/ormConfig.json
 /backend/src/config/auth.ts
+/backend/tmp/*
+!/backend/tmp/.gitkeep
